@@ -42,6 +42,7 @@ Many thanks to [Nikolay Anzarov](https://www.behance.net/nikolayanzarov) ([@Bloo
 ## License
 ```
 Copyright 2020-2024 Patrick Goldinger
+Copyright 2025      Inkosoft for Updates
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
